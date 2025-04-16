@@ -20,7 +20,7 @@
         "c": "Electric field",
         "d": "All the above"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
@@ -29,7 +29,7 @@
         "a": "True",
         "b": "False"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -51,7 +51,7 @@
         "c": "Acrylamide",
         "d": "TEMED"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
