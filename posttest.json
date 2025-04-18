@@ -1,0 +1,38 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Transfer of the proteins can be carried out using........",
+      "answers": {
+        "a": "Vaccum",
+        "b": "Capillary field",
+        "c": "Electric field",
+        "d": "All the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PVDF is",
+      "answers": {
+        "a": "Chemically stable",
+        "b": "A plastic material",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The single most important factor in efficient electroblotting is the amount of -------present in the gel during electrotransfer.",
+      "answers": {
+        "a": "SDS",
+        "b": "Protein",
+        "c": "Acrylamide",
+        "d": "TEMED"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
