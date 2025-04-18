@@ -2,37 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Electroblotting is the transfer of ------------ onto a membrane.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Proteins",
+        "b": "Carbohydrates",
+        "c": "Lipids",
+        "d": "None of the above"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Transfer of the proteins can be carried out using........",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Vaccum",
+        "b": "Capillary field",
+        "c": "Electric field",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "It is a necessity that the membrane is located between the gel and the cathode, as the current and sample will be moving in that direction.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PVDF is",
+      "answers": {
+        "a": "Chemically stable",
+        "b": "A plastic material",
+        "c": "Both a and b",
+        "d": "None of the above"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The single most important factor in efficient electroblotting is the amount of -------present in the gel during electrotransfer.",
+      "answers": {
+        "a": "SDS",
+        "b": "Protein",
+        "c": "Acrylamide",
+        "d": "TEMED"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
